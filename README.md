@@ -1,0 +1,2 @@
+# moascordbot
+first bot 
